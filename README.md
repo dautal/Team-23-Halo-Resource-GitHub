@@ -60,14 +60,24 @@ Two repositories in addition to this one. One contains the Arduino code and the 
 * <a href="https://github.com/dautal/HaloApp">iOS App Code</a>
   * Short description words words words words words words words words words words words words words words words words words words words words words words words words words words.
 
-## Current Status
+## Challenges Faced
+### Strain Gauge
+Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
+Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
+### Voltage Amplifier Module
+Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
+Words words words words words words words words.
+### Cloth Cover
+Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
 
+
+## Current Status
+### Hardware
 Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
 Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
 
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
-
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
+### Software
+Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>
 

@@ -46,7 +46,7 @@ To address this issue and prevent drink spiking incidents, we have developed the
 <br/>
 <p align="center"><img src="Images/SystemOverview.png" width=600 height=375></p>
 The final product consists of four primary components, which are the Arduino nano 33 BLE, the outer layer cover, an app, and strain gauge sensor. The Arduino has two built-in sensors, a gyroscope and an accelerometer, which can sense rotations and acceleration, and a strain gauge with the amplifying module connected to it. By combining the accelerometer and gyroscope with the strain gauge module, Halo is able to recognize and detect potential cover removals and eliminate false positives, such as simple cup movement. The Arduino is equipped with a Bluetooth module that is capable of sending signals and connecting to the iOS app, which will send a notification to the user whenever the device senses a potential cover removal.
-<p align="center"><img src="Images/Final_prototype.jpg" width=600 height=375></p>
+<p align="center"><img src="Images/Final_prototype.jpg"></p>
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>
 

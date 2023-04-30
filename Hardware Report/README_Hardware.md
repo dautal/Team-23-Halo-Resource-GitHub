@@ -88,7 +88,7 @@ Words words words Words words words words words Words words words words words Wo
                 <p>Voltage Amplifier Module</p>
             </td>
             <td colspan="1" rowspan="1">
-                <p>Find Name</p>
+                <p>CFsunbird</p>
             </td>
             <td colspan="1" rowspan="1">
                 <p align=center>1</p>
@@ -105,7 +105,7 @@ Words words words Words words words words words Words words words words words Wo
                 <p>Strain Gauge</p>
             </td>
             <td colspan="1" rowspan="1">
-                <p>Find Name</p>
+                <p>Micro Measurements</p>
             </td>
             <td colspan="1" rowspan="1">
                 <p align=center>1</p>
@@ -122,7 +122,7 @@ Words words words Words words words words words Words words words words words Wo
                 <p>CR2032 Battery Holder</p>
             </td>
             <td colspan="1" rowspan="1">
-                <p>Find Name</p>
+                <p>LampVPath</p>
             </td>
             <td colspan="1" rowspan="1">
                 <p align=center>1</p>
@@ -139,7 +139,7 @@ Words words words Words words words words words Words words words words words Wo
                 <p>Cloth Cover</p>
             </td>
             <td colspan="1" rowspan="1">
-                <p>Find Name</p>
+                <p>VIKOS Products</p>
             </td>
             <td colspan="1" rowspan="1">
                 <p align=center>1</p>
@@ -190,15 +190,26 @@ Words words words Words words words words words Words words words words words Wo
         </tr>
         <tr>
             <td colspan="1" rowspan="1">
+                <p align=center>1</p>
+            </td>
+            <td colspan="1" rowspan="1">
+                <p>Strain Gauge</p>
+            </td>
+            <td colspan="1" rowspan="1">
+                <p align=center><a href="https://docs.arduino.cc/static/b640e8d82246763c38057a29a2d1e280/ABX00030-datasheet.pdf">link</a></p>
+            </td>
+        </tr>                                                                                                                             
+        <tr>
+            <td colspan="1" rowspan="1">
                 <p align=center>2</p>
             </td>
             <td colspan="1" rowspan="1">
                 <p>Voltage Amplifier Module</p>
             </td>
             <td colspan="1" rowspan="1">
-                <p align=center>N/A<a href=" https://s.alicdn.com/@sc01/kf/HTB19TvbNXXXXXc_aXXXq6xXFXXXK/221437113/HTB19TvbNXXXXXc_aXXXq6xXFXXXK.jpg?quality=close">.</a></p>
+                <p align=center><a href="https://datasheet.lcsc.com/lcsc/1908071505_Vishay-Micro-Measurements-CEA-06-062UWA-350_C404310.pdf">link</a></p>
             </td>
-        </tr>
+        </tr>                                                                                                                                                                                                                                                          
     </tbody>
 </table>
 

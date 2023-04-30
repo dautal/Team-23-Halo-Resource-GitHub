@@ -190,7 +190,7 @@ Words words words Words words words words words Words words words words words Wo
         </tr>
         <tr>
             <td colspan="1" rowspan="1">
-                <p align=center>1</p>
+                <p align=center>2</p>
             </td>
             <td colspan="1" rowspan="1">
                 <p>Strain Gauge</p>

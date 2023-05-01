@@ -62,6 +62,9 @@ Words words words Words words words words words Words words words words words Wo
             <td colspan="1" rowspan="1">
                 <p align=center>Cost($)</p>
             </td>
+            <td colspan="1" rowspan="1">
+                <p align=center>Link($)</p>
+            </td>
         </tr>          
         <tr>
             <td colspan="1" rowspan="1">
@@ -79,6 +82,9 @@ Words words words Words words words words words Words words words words words Wo
             <td colspan="1" rowspan="1">
                 <p align=center>30.00</p>
             </td>
+             <td colspan="1" rowspan="1">
+                  <p align=center><a href="https://www.amazon.com/Arduino-Nano-33-BLE/dp/B07WV59YTZ">link</a></p>
+              </td>
         </tr>
         <tr>
             <td colspan="1" rowspan="1">

@@ -244,7 +244,7 @@ The amplifer module has GND, VCC, and OUT pins:
 * GND should be connected to the GND pin on the Arduino
 * OUT should be connected to the voltage output pin, which is A4 in code that is in the Software repo. The A5 pin should be connected to the GND
 
-After the device is properly connected, the strain gauge module should be attached to the side of the cloth protector as shown below. 
+To protect the strain gauge, it is necessary to glue the strain gauge to a piece of plastic on both sides. After the device is properly connected and strain gauge is protected, the strain gauge module should be attached to the side of the cloth protector as shown below. 
 <p align="center"><img src="Images/straingauge.jpeg" width=302 height=403></p>
 
 

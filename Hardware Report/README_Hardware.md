@@ -63,7 +63,7 @@ Words words words Words words words words words Words words words words words Wo
                 <p align=center>Cost($)</p>
             </td>
             <td colspan="1" rowspan="1">
-                <p align=center>Link($)</p>
+                <p align=center>Buying Links</p>
             </td>
         </tr>          
         <tr>
@@ -82,9 +82,9 @@ Words words words Words words words words words Words words words words words Wo
             <td colspan="1" rowspan="1">
                 <p align=center>30.00</p>
             </td>
-             <td colspan="1" rowspan="1">
-                  <p align=center><a href="https://www.amazon.com/Arduino-Nano-33-BLE/dp/B07WV59YTZ">link</a></p>
-              </td>
+            <td colspan="1" rowspan="1">
+                <p align=center><a href="https://www.amazon.com/Arduino-Nano-33-BLE/dp/B07WV59YTZ">Arduino</a></p>
+            </td>
         </tr>
         <tr>
             <td colspan="1" rowspan="1">
@@ -102,22 +102,28 @@ Words words words Words words words words words Words words words words words Wo
             <td colspan="1" rowspan="1">
                 <p align=center>5.89 </p>
             </td>
+            <td colspan="1" rowspan="1">
+                <p align=center><a href="https://www.aliexpress.com/i/2251832629283875.html?gatewayAdapt=4itemAdapt">Amplifier</a></p>
+            </td>
         </tr>
         <tr>
             <td colspan="1" rowspan="1">
                 <p align=center>3</p>
             </td>
             <td colspan="1" rowspan="1">
-                <p>Strain Gauge</p>
+                <p>Strain Gauge (BF350)</p>
             </td>
             <td colspan="1" rowspan="1">
-                <p>Micro Measurements</p>
+                <p>DAOKI</p>
             </td>
             <td colspan="1" rowspan="1">
                 <p align=center>1</p>
             </td>
             <td colspan="1" rowspan="1">
                 <p align=center>0.89</p>
+            </td>
+            <td colspan="1" rowspan="1">
+                <p align=center><a href="https://www.amazon.com/DAOKI-BF350-3AA-High-Precision-Pressure-Resistance/dp/B07X87CJD8/ref=sr_1_5?keywords=Strain+Gauges&qid=1682903267&sr=8-5">Strain Gauge</a></p>
             </td>
         </tr>
         <tr>
@@ -136,6 +142,9 @@ Words words words Words words words words words Words words words words words Wo
             <td colspan="1" rowspan="1">
                 <p align=center>1.29</p>
             </td>
+            <td colspan="1" rowspan="1">
+                <p align=center><a href="https://www.amazon.com/LAMPVPATH-cr2032-Battery-Holder-CR2032/dp/B07BXDHT4B/ref=asc_df_B07BXDHT4B/?tag=hyprod-20&linkCode=df0&hvadid=241973970700&hvpos=&hvnetw=g&hvrand=11993828507842142469&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1018127&hvtargid=pla-459538444737&psc=1">Battery Holder</a></p>
+            </td>
         </tr>
         <tr>
             <td colspan="1" rowspan="1">
@@ -152,6 +161,9 @@ Words words words Words words words words words Words words words words words Wo
             </td>
             <td colspan="1" rowspan="1">
                 <p align=center>0.99</p>
+            </td>
+             <td colspan="1" rowspan="1">
+                <p align=center><a href="https://www.amazon.com/dp/B0BHYGZ3DZ?psc=1&ref=ppx_yo2ov_dt_b_product_details">Battery Holder</a></p>
             </td>
         </tr>
         <tr>

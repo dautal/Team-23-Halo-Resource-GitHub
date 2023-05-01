@@ -56,10 +56,10 @@ The final product consists of four primary components, which are the Arduino nan
 Two repositories in addition to this one. One contains the Arduino code and the other contains the code for the iOS app.
 
 * <a href="https://github.com/dautal/Halo-Smart-Drink-Protector">Arduino Code</a>
-  * Short description words words words words words words words words words words words words words words words words words words words words words words words words words words.
+  * The Arduino code measures voltage (strain gauge) and accelerometer data, and then transmits the data over Bluetooth Low Energy (BLE). It includes necessary libraries, sets up a BLE service and characteristic, and initializes the IMU to read accelerometer data. Once a connection is established, the program enters a loop that updates the data at a specified refresh rate, collects a series of analog readings, computes the average, and then formats and sends the data over BLE using the ArduinoBLE library.
 
 * <a href="https://github.com/dautal/HaloApp">iOS App Code</a>
-  * Short description words words words words words words words words words words words words words words words words words words words words words words words words words words.
+  * The iOS app allows users to connect the Smart Drink Protector to their phone, view product information, and access the website. It has a connect button to connect the device and a start scanning button to show a list of discovered devices. The app displays whether the cover is on the drink using a green light (on) or a red light (off), and sends a notification to the user if the cover is removed. The info button provides a video demonstration and instructions.
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>
 

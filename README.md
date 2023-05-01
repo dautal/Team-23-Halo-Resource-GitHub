@@ -46,7 +46,7 @@ To address this issue and prevent drink spiking incidents, we have developed the
 <br/>
 <p align="center"><img src="Images/SystemOverview.png" width=600 height=375></p>
 The final product consists of four primary components, which are the Arduino nano 33 BLE, the outer layer cover, an app, and strain gauge sensor. The Arduino has two built-in sensors, a gyroscope and an accelerometer, which can sense rotations and acceleration, and a strain gauge with the amplifying module connected to it. By combining the accelerometer and gyroscope with the strain gauge module, Halo is able to recognize and detect potential cover removals and eliminate false positives, such as simple cup movement. The Arduino is equipped with a Bluetooth module that is capable of sending signals and connecting to the iOS app, which will send a notification to the user whenever the device senses a potential cover removal.
-<p align="center"><img src="Images/Final_prototype.jpg" width="50%" height="50%"></p>
+
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>
 
@@ -72,11 +72,13 @@ Words words words words words words words words words words words words words wo
 
 ## Current Status
 ### Hardware
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
+Right now all of the components are attached to a 3D printed 
+<p align="center"><img src="Images/Final_prototype.jpg" width="50%" height="50%"></p>
 
 ### Software
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
+Right now the iOS app is capable of connecting to the device, showing the current status of the cover, send the notifications if the possible cover removal is sensed. It also has the button that navigates the user to the Halo website which includes more info about the device and drink spiking. 
+
+The  Arduino script is capable of measureing 
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>
 
@@ -85,7 +87,7 @@ Words words words words words words words words words words words words words wo
 
 One of the next steps would be to make the product more accessible to consumers, since right now a the unit cost of a signle Halo device is around $40. The desirable unit cost which the Halo team wants to achieve should be in the $20-$25 range. An approach to reduce the price of the device is to integrate all the components onto a PCB. This approach not only reduces the size and weight of the device, but it also helps lower the cost of manufacturing. By optimizing the design of the PCB, the number of components required can be reduced, leading to a reduction for the overall cost of each unit. Additionally, with fewer components, the manufacturing process will be simplified, leading to a reduction in assembly cost. 
 
-Another step would be to improve the iOS app functionality and design. Right now the iOS app is capable of connecting to the device, show the current status, 
+Another step would be to improve the iOS app functionality and design. 
 
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>

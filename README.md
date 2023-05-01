@@ -90,7 +90,7 @@ The  Arduino script is capable of measureing
 
 One of the next steps would be to make the product more accessible to consumers, since right now a the unit cost of a signle Halo device is around $40. The desirable unit cost which the Halo team wants to achieve should be in the $20-$25 range. An approach to reduce the price of the device is to integrate all the components onto a PCB. This approach not only reduces the size and weight of the device, but it also helps lower the cost of manufacturing. By optimizing the design of the PCB, the number of components required can be reduced, leading to a reduction for the overall cost of each unit. Additionally, with fewer components, the manufacturing process will be simplified, leading to a reduction in assembly cost. 
 
-Another step would be to improve the iOS app functionality and design. 
+Another step would be to improve the iOS app functionality and design. Features that could be included are a way for users to report where drink spiking incidences have occurred and a way for users to contact the police or an emergency contact. The overall UI could also be improved to make the overall experience more user friendly.
 
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>

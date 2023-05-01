@@ -68,8 +68,6 @@ Two repositories in addition to this one. One contains the Arduino code and the 
 A strain gauge is a device used to measure the strain or deformation of an object. It works on the principle that when a metal wire or foil is stretched, its resistance changes in proportion to the amount of strain. Strain gauges are extremely fragile and require careful installation and bonding to the surface of the object being measured. Any errors in the installation process can break the straing gauge or lead to innacurate readings. Additionally, the strain gauge must be mounted in a way that allows it to measure the strain in the desired direction. With these challenges, numerous strain gauges were broken and new ones needed to be resoldered to the amplifier module.
 ### Voltage Amplifier Module
 A voltage amplifier is required for strain gauge measurements because the output signal of a strain gauge is typically very small, typically in the microvolt range. This small signal is difficult to measure directly, as it can be easily overwhelmed by noise and other electrical interference. The problem we faced is that for some reason not every amplifier actually works as intended. Some of them provided random negative values and the potentiometer did not work at all. We recommend using the certain amplifier module, which is listed in the Hardware Report. 
-### Cloth Cover
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>
 

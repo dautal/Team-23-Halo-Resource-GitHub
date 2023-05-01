@@ -34,7 +34,7 @@
 
 ## Overview
 
-Words words words Words words words words words Words words words words words Words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words.
+This project aims to address the problem of drink spiking by introducing the Halo Smart Drink Protector, which is designed to detect and report any attempts of tampering with a drink. The device uses an Arduino Nano 33 BLE microcontroller, which is connected to an iOS app via Bluetooth technology, and is powered by two CR2032 batteries. The device detects the removal of a cup cover using an accelerometer and a strain gauge, which enables more accurate detection and eliminates false positives and negatives. The Arduino then communicates with the iOS app, which sends a notification to alert the user if their drink may be exposed. This section provides some useful information about the components used and how to set up the hardware for required by the project.
 
 
 <br/>
@@ -235,9 +235,20 @@ Words words words Words words words words words Words words words words words Wo
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>
 
                                         
-## Setup
+## Device Setup
 
-Words words words Words words words words words Words words words words words Words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words words words Words words words words words.
+To make a working device (powered by a computer), three main compenents are required: Arduino Nano 33 BLE, amplifier module with a strain gauge, and a cloth cover.
+                                        
+The amplifer module has GND, VCC, and OUT pins:
+* VCC should be connected to the 3.3v pin on the Arduino
+* GND should be connected to the GND pin on the Arduino
+* OUT should be connected to the voltage output pin, which is A4 in code that is in the Software repo. The A5 pin should be connected to the GND
+
+After the device is properly connected, the strain gauge module should be attached to the side of the cloth protector as shown below. 
+![straingauge](https://user-images.githubusercontent.com/75428513/235388934-b8cf5efd-c64a-4d06-af74-bfcdb16eb043.jpeg)
+
+
+
 
 ### Setup Procedure
                                       

@@ -75,7 +75,7 @@ Words words words words words words words words words words words words words wo
 
 ## Current Status
 ### Hardware
-Right now all of the components are attached to a 3D printed 
+Right now all of the components are attached to a 3D printed surface, which is attached to the cloth cover. The hard surface is needed because it makes the  installation and removal of the cover onto the cup more convenient. 
 <p align="center"><img src="Images/Final_prototype.jpg" width="50%" height="50%"></p>
 
 ### Software

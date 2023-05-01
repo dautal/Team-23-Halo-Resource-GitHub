@@ -60,6 +60,8 @@ Two repositories in addition to this one. One contains the Arduino code and the 
 
 * <a href="https://github.com/dautal/HaloApp">iOS App Code</a>
   * Short description words words words words words words words words words words words words words words words words words words words words words words words words words words.
+<br/>
+<p align="center">(<a href="#navigation">to table of contents</a>)</p>
 
 ## Challenges Faced
 ### Strain Gauge
@@ -68,7 +70,8 @@ A strain gauge is a device used to measure the strain or deformation of an objec
 A voltage amplifier is required for strain gauge measurements because the output signal of a strain gauge is typically very small, typically in the microvolt range. This small signal is difficult to measure directly, as it can be easily overwhelmed by noise and other electrical interference. The problem we faced is that for some reason not every amplifier actually works as intended. Some of them provided random negative values and the potentiometer did not work at all. We recommend using the certain amplifier module, which is listed in the Hardware Report. 
 ### Cloth Cover
 Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
-
+<br/>
+<p align="center">(<a href="#navigation">to table of contents</a>)</p>
 
 ## Current Status
 ### Hardware

@@ -163,7 +163,7 @@ Words words words Words words words words words Words words words words words Wo
                 <p align=center>0.99</p>
             </td>
              <td colspan="1" rowspan="1">
-                <p align=center><a href="https://www.amazon.com/dp/B0BHYGZ3DZ?psc=1&ref=ppx_yo2ov_dt_b_product_details">Battery Holder</a></p>
+                <p align=center><a href="https://www.amazon.com/dp/B0BHYGZ3DZ?psc=1&ref=ppx_yo2ov_dt_b_product_details">Cloth Cover</a></p>
             </td>
         </tr>
         <tr>

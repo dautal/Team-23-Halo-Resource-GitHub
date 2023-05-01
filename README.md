@@ -81,7 +81,7 @@ Right now all of the components are attached to a 3D printed
 ### Software
 Right now the iOS app is capable of connecting to the device, showing the current status of the cover, send the notifications if the possible cover removal is sensed. It also has the button that navigates the user to the Halo website which includes more info about the device and drink spiking. 
 
-The  Arduino script is capable of measureing 
+The  Arduino script is capable of measuring the strain gauge and acceleroemter data, and then transmitting the data to the iOS app. 
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>
 

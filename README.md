@@ -63,11 +63,9 @@ Two repositories in addition to this one. One contains the Arduino code and the 
 
 ## Challenges Faced
 ### Strain Gauge
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
+A strain gauge is a device used to measure the strain or deformation of an object. It works on the principle that when a metal wire or foil is stretched, its resistance changes in proportion to the amount of strain. Strain gauges are extremely fragile and require careful installation and bonding to the surface of the object being measured. Any errors in the installation process can break the straing gauge or lead to innacurate readings. Additionally, the strain gauge must be mounted in a way that allows it to measure the strain in the desired direction. With these challenges, numerous strain gauges were broken and new ones needed to be resoldered to the amplifier module.
 ### Voltage Amplifier Module
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
-Words words words words words words words words.
+A voltage amplifier is required for strain gauge measurements because the output signal of a strain gauge is typically very small, typically in the microvolt range. This small signal is difficult to measure directly, as it can be easily overwhelmed by noise and other electrical interference. The problem we faced is that for some reason not every amplifier actually works as intended. Some of them provided random negative values and the potentiometer did not work at all. We recommend using the certain amplifier module, which is listed in the Hardware Report. 
 ### Cloth Cover
 Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
 
@@ -85,13 +83,9 @@ Words words words words words words words words words words words words words wo
 
 ## Future Work
 
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
+One of the next steps would be to make the product more accessible to consumers, since right now a the unit cost of a signle Halo device is around $40. The desirable unit cost which the Halo team wants to achieve should be in the $20-$25 range. An approach to reduce the price of the device is to integrate all the components onto a PCB. This approach not only reduces the size and weight of the device, but it also helps lower the cost of manufacturing. By optimizing the design of the PCB, the number of components required can be reduced, leading to a reduction for the overall cost of each unit. Additionally, with fewer components, the manufacturing process will be simplified, leading to a reduction in assembly cost. 
 
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
-
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
-
-Words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words words.
+Another step would be to improve the iOS app functionality and design. Right now the iOS app is capable of connecting to the device, show the current status, 
 
 <br/>
 <p align="center">(<a href="#navigation">to table of contents</a>)</p>

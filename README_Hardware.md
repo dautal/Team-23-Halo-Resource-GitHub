@@ -245,7 +245,7 @@ The amplifer module has GND, VCC, and OUT pins:
 * OUT should be connected to the voltage output pin, which is A4 in code that is in the Software repo. The A5 pin should be connected to the GND
 
 After the device is properly connected, the strain gauge module should be attached to the side of the cloth protector as shown below. 
-<p align="center"><img src="Images/straingauge.jpeg" width=600 height=375></p>
+<p align="center"><img src="Images/straingauge.jpeg" width=302 height=403></p>
 
 
 
